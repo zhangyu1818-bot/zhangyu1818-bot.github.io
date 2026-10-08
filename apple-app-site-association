@@ -1,1 +1,1 @@
-{"applinks":{"details":[{"appIDs":["SRD476XUQA.com.littleroom.readingclub"],"components":[{"/":"/activities/*"}]}]}}
+{"applinks":{"details":[{"appIDs":["SRD476XUQA.com.littleroom.readingclub"],"components":[{"/":"/activities/","exclude":true},{"/":"/activities/*"}]}]}}
